@@ -96,8 +96,8 @@ Example:
 ## Technologies
 
 - Python
-- Numpy (optional if you used)
-- Matplotlib (optional if you plotted results)
+- Numpy 
+- Matplotlib  
 
 ---
 
@@ -124,8 +124,12 @@ The experiments showed different behaviors among the algorithms:
 - Simulated Annealing can escape local minima through probabilistic jumps
 - Genetic Algorithms tend to explore the solution space more broadly
 
+<img width="576" height="455" alt="nqueens_algorithm_comparison" src="https://github.com/user-attachments/assets/82f10821-bf0a-477b-a2d7-bcbe1d667195" />
+
+
 ---
 
 ## Educational Context
 
 This project was developed as part of the Artificial Intelligence course at the Federal University of Mato Grosso (UFMT).
+
